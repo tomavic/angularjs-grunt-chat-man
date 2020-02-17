@@ -1,0 +1,8 @@
+node_modules
+dist
+.tmp
+.sass-cache
+.firebaserc
+bower_components
+database.rules.json
+firebase.json
